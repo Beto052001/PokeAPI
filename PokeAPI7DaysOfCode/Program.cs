@@ -28,4 +28,3 @@ while (rodando)
 
     Console.Clear();
 }
-Console.ReadLine();
